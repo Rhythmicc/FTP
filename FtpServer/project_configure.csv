@@ -1,0 +1,6 @@
+compile_tool,gcc -Wall -g,../configure/conf.c ../configure/parse_conf.c ../priv/priv_command.c ../priv/priv_sock.c ../protocol/command_map.c ../protocol/ctrl.c ../protocol/ftp_assist.c ../protocol/ftp_nobody.c ../protocol/ftp_proto.c ../protocol/io.c ../utils/hash.c ../utils/session.c ../utils/strutil.c ../utils/sysutil.c -lcrypt
+compile_filename,main.c
+executable_filename,dist/FtpServer
+input_file,dist/input.txt
+template_root,template/
+server_target,root@aliyun.rhythmlian.cn:~/FTP/FtpServer/

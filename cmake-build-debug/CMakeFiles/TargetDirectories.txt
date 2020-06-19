@@ -1,0 +1,4 @@
+/Users/lianhaocheng/CLionProjects/FTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lianhaocheng/CLionProjects/FTP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lianhaocheng/CLionProjects/FTP/cmake-build-debug/CMakeFiles/FtpClient.dir
+/Users/lianhaocheng/CLionProjects/FTP/cmake-build-debug/CMakeFiles/FtpServer.dir

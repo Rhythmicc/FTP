@@ -1,0 +1,6 @@
+compile_tool,gcc -std=c11,
+compile_filename,main.c
+executable_filename,cmake-build-debug/FTP
+input_file,cmake-build-debug/input.txt
+template_root,template/
+server_target,root@aliyun.rhythmlian.cn:~/FTP/
